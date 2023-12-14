@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: rgb(207, 248, 171);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#msg{
+    margin: 1rem;
+}
+h2{
+    margin-top: 1rem;
+    color:rgb(47, 0, 255);
+    text-shadow: 1px 1px 10px rgb(65, 176, 65);
+    font-size: 2rem;
+}
+
+#gameboard{
+    margin-top: 1rem;
+    border: 7px solid rgb(127, 129, 147);
+    box-shadow: 1px 0.8px 8px ;
+}
+
+.gameContainer{
+    display: none;
+}
+
+#score{
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+
+
+#playbtn{
+    background-color: lightgreen;
+    padding: .6rem;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    border: 1px solid rgb(117, 201, 117);
+    box-shadow: 10px 10px 20px;
+    margin: 1rem;
+}
+
+#playbtn i{
+    background-color: lightgreen;
+
+}
+
+
+
